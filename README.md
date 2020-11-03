@@ -2,7 +2,7 @@
 
 Limited Testing on Xbox One Chernarus Nitrado Private Server DAYZ Version 1.09 Sep 2020.
 
-Created by @Final-Evo-DayZ. 
+Created by @Final-DayZ. GAMERTAG XBOX: OsamaB3nLaggin0
 
 TERMS OF USE
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
@@ -65,6 +65,12 @@ All coloured & black varients of attachments now spawn in, Tier (3 & 4)DONE.
 Magazines spawn with significantly more ammo. DONE.
 
 Guns will always spawn with mags, if they take one. DONE.
+
+Christmas trees with loot. DONE.
+
+60 out of 92 heli crashes added. DONE.
+
+C130 added to heli crashes. DONE.
 
 Some surprises.
 
