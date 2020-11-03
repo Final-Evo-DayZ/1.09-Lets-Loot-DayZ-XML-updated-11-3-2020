@@ -66,6 +66,12 @@ Magazines spawn with significantly more ammo. DONE.
 
 Guns will always spawn with mags, if they take one. DONE.
 
+Christmas trees with loot. DONE.
+
+60 out of 92 heli crashes added. DONE.
+
+C130 added to heli crashes. DONE.
+
 Some surprises.
 
 GOOD LUCK!
