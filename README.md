@@ -22,6 +22,8 @@ functioning of your server.
 
 CHANGELOG:
 
+Added backpacks to 80% of zombies, backpack varies by location. DONE.
+
 Large Zombie Hordes at NWAF. DONE.
 
 More building tools spawn in. Vehicles spawn in with base building tools in boot, inc wachtower kit, fence kit & nails. DONE.
